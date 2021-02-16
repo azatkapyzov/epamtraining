@@ -4,3 +4,5 @@ String 3
 String 4
 String 5
 String 6
+
+line in a new branch 'featture'
